@@ -1,5 +1,5 @@
 # hangman in python land
--
+---
 
 quick and simple python game put together as a learning exercize for codecademy
 
